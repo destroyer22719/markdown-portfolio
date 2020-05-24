@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![James Bond Coins](https://mma.prnewswire.com/media/1097105/The_Royal_Mint_007_Coin.jpg?p=publish)
